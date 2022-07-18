@@ -1,0 +1,46 @@
+{
+  "initial": {
+    "achievement": null,
+    "conservation": null,
+    "caring": null,
+    "freedom": null,
+    "respect": null,
+    "tradition": null,
+    "enjoyment": null,
+    "stability": null,
+    "equityJustice": null
+  },
+  "freeSpirit": {
+    "achievement": "inner-circle-four",
+    "conservation": "inner-circle-three",
+    "caring": "inner-circle-three",
+    "freedom": "inner-circle-one",
+    "respect": "inner-circle-two",
+    "tradition": "inner-circle-two",
+    "enjoyment": "inner-circle-four",
+    "stability": "inner-circle-three",
+    "equalityJustice": "inner-circle-four"
+  },
+  "achiever": {
+    "achievement": "inner-circle-one",
+    "conservation": "inner-circle-three",
+    "caring": "inner-circle-four",
+    "freedom": "inner-circle-four",
+    "respect": "inner-circle-two",
+    "tradition": "inner-circle-one",
+    "enjoyment": "inner-circle-two",
+    "stability": "inner-circle-three",
+    "equalityJustice": "inner-circle-three"
+  },
+  "caregiver": {
+    "achievement": "inner-circle-four",
+    "conservation": "inner-circle-three",
+    "caring": "inner-circle-one",
+    "freedom": "inner-circle-three",
+    "respect": "inner-circle-four",
+    "tradition": "inner-circle-four",
+    "enjoyment": "inner-circle-three",
+    "stability": "inner-circle-two",
+    "equalityJustice": "inner-circle-three"
+  }
+}
